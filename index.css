@@ -1,0 +1,19 @@
+body {
+  background-image: url('assets/new_year_background.png');
+}
+
+#footerTxt {
+  text-align: center;
+  color: rgb(114, 122, 126);
+  color: rgba(114, 122, 126, 0.5);
+}
+
+.jumbotron {
+background-color: #ccc;
+background-color: rgba(123, 132, 148, 0.2);
+
+}
+
+.topMargin {
+  margin-top: 6px;
+}

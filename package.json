@@ -1,0 +1,24 @@
+{
+  "name": "EmployeeDataManagement",
+  "version": "1.0.0",
+  "description": "Role, start, end, salary",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JF-13/EmployeeDataManagement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JF-13/EmployeeDataManagement/issues"
+  },
+  "homepage": "https://github.com/JF-13/EmployeeDataManagement#readme"
+}
